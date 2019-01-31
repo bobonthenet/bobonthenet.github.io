@@ -1,6 +1,7 @@
 ---
 layout: post
 title: This is just a another test!
+published: false
 ---
 
 The following has been copied and pasted from http://www.angelfire.com/amiga/mydogRugby/legend.html
