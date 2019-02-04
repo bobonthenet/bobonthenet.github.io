@@ -1,1 +1,1 @@
-docker run --rm --volume="C:\Users\rbedard\Documents\bobonthenet.github.io:/srv/jekyll" -p 4000:4000 -it jekyll/jekyll:3 jekyll serve --watch --future --drafts
+docker run --rm --volume="C:\Users\rbedard\Documents\bobonthenet.github.io:/srv/jekyll" -p 4000:4000 -it jekyll/jekyll:3 jekyll serve --watch --future --drafts --force_polling
