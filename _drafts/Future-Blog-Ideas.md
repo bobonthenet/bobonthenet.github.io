@@ -21,3 +21,6 @@ I'm thinking that I would blog about mostly PCG and some other video game relate
 * https://www.reddit.com/r/proceduralgeneration/
 * http://pcg.wikidot.com/
 * https://www.redblobgames.com/
+* http://blog.runevision.com/2015/01/primer-on-repeatable-random-numbers.html
+* http://braythwayt.com/2015/01/29/how-i-write-books-with-github-and-leanpub.html
+* https://github.com/davidbau/seedrandom
